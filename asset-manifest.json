@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brainteaser-website/static/css/main.f855e6bc.css",
+    "main.js": "/brainteaser-website/static/js/main.9dab80d2.js",
+    "static/js/453.9f834305.chunk.js": "/brainteaser-website/static/js/453.9f834305.chunk.js",
+    "static/media/logo.svg": "/brainteaser-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brainteaser-website/index.html",
+    "main.f855e6bc.css.map": "/brainteaser-website/static/css/main.f855e6bc.css.map",
+    "main.9dab80d2.js.map": "/brainteaser-website/static/js/main.9dab80d2.js.map",
+    "453.9f834305.chunk.js.map": "/brainteaser-website/static/js/453.9f834305.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9dab80d2.js"
+  ]
+}
